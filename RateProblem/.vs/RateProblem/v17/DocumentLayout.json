@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSProjects\\RateProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|d:\\vsprojects\\rateproblem\\rateproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|solutionrelative:rateproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|d:\\vsprojects\\rateproblem\\rateproblem\\nativerate .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|solutionrelative:rateproblem\\nativerate .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|d:\\vsprojects\\rateproblem\\rateproblem\\ratesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|solutionrelative:rateproblem\\ratesstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|d:\\vsprojects\\rateproblem\\rateproblem\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED7E1D5-506B-4EA3-B017-C8F1C71733A2}|RateProblem\\RateProblem.csproj|solutionrelative:rateproblem\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NativeRate .cs",
+              "DocumentMoniker": "D:\\VSProjects\\RateProblem\\RateProblem\\NativeRate .cs",
+              "RelativeDocumentMoniker": "RateProblem\\NativeRate .cs",
+              "ToolTip": "D:\\VSProjects\\RateProblem\\RateProblem\\NativeRate .cs",
+              "RelativeToolTip": "RateProblem\\NativeRate .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:30:15.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RatesStorage.cs",
+              "DocumentMoniker": "D:\\VSProjects\\RateProblem\\RateProblem\\RatesStorage.cs",
+              "RelativeDocumentMoniker": "RateProblem\\RatesStorage.cs",
+              "ToolTip": "D:\\VSProjects\\RateProblem\\RateProblem\\RatesStorage.cs",
+              "RelativeToolTip": "RateProblem\\RatesStorage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:31:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "D:\\VSProjects\\RateProblem\\RateProblem\\Rate.cs",
+              "RelativeDocumentMoniker": "RateProblem\\Rate.cs",
+              "ToolTip": "D:\\VSProjects\\RateProblem\\RateProblem\\Rate.cs",
+              "RelativeToolTip": "RateProblem\\Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:30:45.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VSProjects\\RateProblem\\RateProblem\\Program.cs",
+              "RelativeDocumentMoniker": "RateProblem\\Program.cs",
+              "ToolTip": "D:\\VSProjects\\RateProblem\\RateProblem\\Program.cs",
+              "RelativeToolTip": "RateProblem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:29:05.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\VSProjects\RateProblem\RateProblem\bin\Debug\net8.0\RateProblem.exe
+D:\VSProjects\RateProblem\RateProblem\bin\Debug\net8.0\RateProblem.deps.json
+D:\VSProjects\RateProblem\RateProblem\bin\Debug\net8.0\RateProblem.runtimeconfig.json
+D:\VSProjects\RateProblem\RateProblem\bin\Debug\net8.0\RateProblem.dll
+D:\VSProjects\RateProblem\RateProblem\bin\Debug\net8.0\RateProblem.pdb
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.AssemblyInfoInputs.cache
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.AssemblyInfo.cs
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.csproj.CoreCompileInputs.cache
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.dll
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\refint\RateProblem.dll
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.pdb
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\RateProblem.genruntimeconfig.cache
+D:\VSProjects\RateProblem\RateProblem\obj\Debug\net8.0\ref\RateProblem.dll
